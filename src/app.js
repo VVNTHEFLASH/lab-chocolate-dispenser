@@ -169,6 +169,11 @@ function changeChocolateColorAllOfxCount(chocolates, color, finalcolor) {
 }
 
 //Challenge 1: Remove one chocolate of ____ color from the top
+function removeChocolateOfColor() {
 
+}
 
 //Challenge 2: Dispense 1 rainbow colored colored chocolate for every 3 chocolates of the same color dispensed
+function dispenseRainbowChocolates() {
+    
+}
